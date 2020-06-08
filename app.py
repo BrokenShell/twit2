@@ -1,4 +1,4 @@
-from basilica_service import con
+from web_app.services.basilica_service import con
 
 
 if __name__ == '__main__':
